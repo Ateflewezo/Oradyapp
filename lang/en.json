@@ -1,0 +1,103 @@
+{
+  "tabs1": "flayers",
+  "tabs2": "discounts",
+  "tabs3": "offers",
+  "tabs4": "stores",
+  "tabs5": "shopping list",
+  "tabs6": "loyality cards",
+  "tabs7": "about oroody",
+  "tabs8": "contact us",
+  "tabs9": "share app",
+  "tabs10": "rate app",
+  "tabs11": "log out",
+
+  "sharedInternet1": "ok",
+  "sharedInternet2": "do you really want to log out ?",
+  "sharedInternet3": "cancel",
+  "sharedInternet4": "confirm",
+  "sharedInternet5": "copy code",
+  "sharedInternet6": "code is copied",
+
+  "allAuth1": "password is not identical",
+  "allAuth2": "new account",
+  "allAuth3": "name",
+  "allAuth4": "please enter name",
+  "allAuth5": "email",
+  "allAuth6": "please enter email",
+  "allAuth7": "password",
+  "allAuth8": "please enter password",
+  "allAuth9": "confirm password",
+  "allAuth10": "please confirm password",
+  "allAuth11": "please choose age",
+  "allAuth12": "please choose country",
+  "allAuth13": "please choose city",
+  "allAuth14": " email is already found, try another one   ",
+  "allAuth15": "register ",
+  "allAuth16": "login",
+  "allAuth17": "login info is wrong , try again",
+  "allAuth18": "forget password ?",
+  "allAuth19": "get password back ",
+  "allAuth20": "check your email",
+
+  "settings1": "settings",
+  "settings2": "language",
+  "settings3": "city",
+  "settings4": "country",
+  "settings5": "clear data",
+  "settings7": "terms and conditions",
+  "settings8": "privacy policy",
+  "settings9": "version",
+  "settings10": "favourites",
+
+  "offers1": "my offers",
+  "offers2": "get the offer",
+
+  "notifications1": "notitfications",
+  "notifications2": "all notifications",
+  "notifications3": "clear",
+
+  "home1": "flayers",
+  "home2": "discounts",
+  "home3": "offers",
+  "home4": "stores",
+  "home5": "all offers",
+
+  "account1": "account",
+
+  "language": "language",
+
+  "shopList1": "shop list",
+
+  "stores1": "stores",
+  "stores2": " all stores",
+  "stores3": "get the offer",
+
+  "about": "about orody",
+
+  "copouns1": "copuons",
+
+  "contactus1": "contact us",
+  "contactus2": "phone",
+  "contactus3": "please enter your phone",
+  "contactus4": "your message",
+  "contactus5": "please enter your message",
+  "contactus6": "your message has been sent",
+  "contactus7": "send",
+
+  "loyal1": "add loyality card",
+  "loyal2": "card name",
+  "loyal3": "person name",
+  "loyal4": "card number",
+  "loyal5": "upload front image of card",
+  "loyal6": "upload back image of card",
+  "loyal7": "wrong info , try again",
+  "loyal8": "card has been added",
+  "loyal9": "add",
+  "loyal10": "loyality cards",
+  "loyal11": "add new card",
+
+  "global1": "there is some error, try agian",
+  "global2": "please check internet first then try again",
+
+  "addTo": "added to favourites"
+}

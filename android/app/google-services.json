@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490323572409",
+    "firebase_url": "https://orody-11e7c.firebaseio.com",
+    "project_id": "orody-11e7c",
+    "storage_bucket": "orody-11e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490323572409:android:0a68dc895a4a2f56c10d68",
+        "android_client_info": {
+          "package_name": "com.example.orody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490323572409-1j7hr6cvld5mbl1kv9l1ljc3gh8ohlmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAzoEL6OUphoyDzwx_VkeeavzIc06cUWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490323572409-1j7hr6cvld5mbl1kv9l1ljc3gh8ohlmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
