@@ -18,3 +18,32 @@ nt.com/47438788/164972197-bb4a9dc1-972d-499f-86d9-1829610b669b.png)
 
 ![home3](https://user-images.githubusercontent.com/47438788/164972200-ee0cdc6b-cc63-4c04-940c-9ef12101ff79.png)
 
+
+📂lib
+ │───main.dart  
+ 
+ │───📂Api  
+ |   │──sharedApi.dart
+ |   │──authPages.dart
+ └───📂src
+ 
+     └────📂view
+     |    │───📂screen
+     |    |   |──Tabs.dart
+     |    |   |──Home.dart
+     |    |   |──Setting.dart
+     |    |   |──stores.dart
+     |    |   |──notification_screen.dart
+     |    |   |──office_furniture_list_screen.dart
+     |    |   └──profile_screen.dart
+     |    │───📂widget
+     |    |   |──bottom_bar.dart
+     │    |   |──cart_list_view.dart
+     │    |   |──color_picker.dart
+     │    |   |──counter_button.dart
+     │    |   |──empty_widget.dart
+     │    |   |──furniture_list_view.dart
+     │    |   |──fade_in_animation.dart
+     |    |   └──rating_bar.dart
+     └────📂controller
+          └──Home_controller.dart
